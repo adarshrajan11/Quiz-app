@@ -1,0 +1,14 @@
+/* src/styles/Button.css */
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+/* Add more styles based on your design system */
+/* ... */
